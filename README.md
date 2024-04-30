@@ -1,4 +1,4 @@
-###Projeto de Landing Page - MaricaService
+#Projeto de Landing Page - MaricaService
 Este é um projeto de landing page criado para destacar as práticas extensionistas do projeto MaricaService.
 
 Instruções para Visualização e Teste
@@ -25,4 +25,4 @@ Preencha o formulário com informações válidas.
 Clique no botão "Enviar" para submeter o formulário.
 Verifique se os dados foram enviados corretamente.
 A landing page também está disponível no GitHub Pages. Você pode acessá-la através do seguinte link:
-Link para o site hospedado no GitHub Pages:
+Link para o site hospedado no GitHub Pages: https://iagomovic.github.io/Trab/
